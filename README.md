@@ -1,6 +1,6 @@
 # tcd-drumkit
 
-The drum kit is modelled with POV-Ray, a ray-tracing programme that generate images from a text-based scene description.
+The drum kit is modelled with POV-Ray, a ray-tracing programme that generates image from a text-based scene description.
 
 POV-Ray - The Persistence of Vision Raytracer
 
