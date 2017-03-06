@@ -6,4 +6,4 @@ POV-Ray - The Persistence of Vision Raytracer
 
 Download: http://www.povray.org/download/
 
-Make sure you put the "colors.inc", "textures.inc", "finish.inc" files in the root folder of current project.
+Make sure you put the "colors.inc", "textures.inc", "finish.inc" files in the root folder of this project.
